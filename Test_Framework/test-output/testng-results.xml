@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-10-06T01:34:05 IST" name="Suite" finished-at="2020-10-06T01:36:14 IST" duration-ms="128876">
+    <groups>
+    </groups>
+    <test started-at="2020-10-06T01:34:05 IST" name="Test" finished-at="2020-10-06T01:36:14 IST" duration-ms="128876">
+      <class name="com.learnautomation.testcases.Test2">
+        <test-method signature="testmethod()[pri:0, instance:com.learnautomation.testcases.Test2@124c278f]" started-at="2020-10-06T01:36:14 IST" name="testmethod" finished-at="2020-10-06T01:36:14 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testmethod -->
+      </class> <!-- com.learnautomation.testcases.Test2 -->
+      <class name="com.learnautomation.testcases.HerokuappTest">
+        <test-method is-config="true" signature="setupSuite()[pri:0, instance:com.learnautomation.testcases.HerokuappTest@61dd025]" started-at="2020-10-06T01:34:03 IST" name="setupSuite" finished-at="2020-10-06T01:34:05 IST" duration-ms="1274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupSuite -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.learnautomation.testcases.HerokuappTest@61dd025]" started-at="2020-10-06T01:34:05 IST" name="setup" finished-at="2020-10-06T01:34:47 IST" duration-ms="42205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="AddorRemoveElements()[pri:0, instance:com.learnautomation.testcases.HerokuappTest@61dd025]" started-at="2020-10-06T01:34:47 IST" name="AddorRemoveElements" finished-at="2020-10-06T01:34:50 IST" duration-ms="3161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddorRemoveElements -->
+        <test-method is-config="true" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.learnautomation.testcases.HerokuappTest@61dd025]" started-at="2020-10-06T01:34:50 IST" name="tearDownMethod" finished-at="2020-10-06T01:34:53 IST" duration-ms="2872" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=AddorRemoveElements status=SUCCESS method=HerokuappTest.AddorRemoveElements()[pri:0, instance:com.learnautomation.testcases.HerokuappTest@61dd025] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.learnautomation.testcases.HerokuappTest@61dd025]" started-at="2020-10-06T01:34:53 IST" name="teardown" finished-at="2020-10-06T01:34:54 IST" duration-ms="1027" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.learnautomation.testcases.HerokuappTest@61dd025]" started-at="2020-10-06T01:34:54 IST" name="setup" finished-at="2020-10-06T01:35:06 IST" duration-ms="12223" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ClickCheckbox()[pri:0, instance:com.learnautomation.testcases.HerokuappTest@61dd025]" started-at="2020-10-06T01:35:06 IST" name="ClickCheckbox" finished-at="2020-10-06T01:35:10 IST" duration-ms="3601" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickCheckbox -->
+        <test-method is-config="true" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.learnautomation.testcases.HerokuappTest@61dd025]" started-at="2020-10-06T01:35:10 IST" name="tearDownMethod" finished-at="2020-10-06T01:35:11 IST" duration-ms="961" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickCheckbox status=SUCCESS method=HerokuappTest.ClickCheckbox()[pri:0, instance:com.learnautomation.testcases.HerokuappTest@61dd025] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.learnautomation.testcases.HerokuappTest@61dd025]" started-at="2020-10-06T01:35:11 IST" name="teardown" finished-at="2020-10-06T01:35:12 IST" duration-ms="1293" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.learnautomation.testcases.HerokuappTest@61dd025]" started-at="2020-10-06T01:35:12 IST" name="setup" finished-at="2020-10-06T01:35:25 IST" duration-ms="13243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ClickContextMenu()[pri:0, instance:com.learnautomation.testcases.HerokuappTest@61dd025]" started-at="2020-10-06T01:35:25 IST" name="ClickContextMenu" finished-at="2020-10-06T01:35:27 IST" duration-ms="1975" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickContextMenu -->
+        <test-method is-config="true" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.learnautomation.testcases.HerokuappTest@61dd025]" started-at="2020-10-06T01:35:27 IST" name="tearDownMethod" finished-at="2020-10-06T01:35:28 IST" duration-ms="847" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickContextMenu status=SUCCESS method=HerokuappTest.ClickContextMenu()[pri:0, instance:com.learnautomation.testcases.HerokuappTest@61dd025] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.learnautomation.testcases.HerokuappTest@61dd025]" started-at="2020-10-06T01:35:28 IST" name="teardown" finished-at="2020-10-06T01:35:29 IST" duration-ms="898" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.learnautomation.testcases.HerokuappTest@61dd025]" started-at="2020-10-06T01:35:29 IST" name="setup" finished-at="2020-10-06T01:35:40 IST" duration-ms="10839" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="DragandDropElement()[pri:0, instance:com.learnautomation.testcases.HerokuappTest@61dd025]" started-at="2020-10-06T01:35:40 IST" name="DragandDropElement" finished-at="2020-10-06T01:35:47 IST" duration-ms="6980" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DragandDropElement -->
+        <test-method is-config="true" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.learnautomation.testcases.HerokuappTest@61dd025]" started-at="2020-10-06T01:35:47 IST" name="tearDownMethod" finished-at="2020-10-06T01:35:48 IST" duration-ms="944" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=DragandDropElement status=SUCCESS method=HerokuappTest.DragandDropElement()[pri:0, instance:com.learnautomation.testcases.HerokuappTest@61dd025] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.learnautomation.testcases.HerokuappTest@61dd025]" started-at="2020-10-06T01:35:48 IST" name="teardown" finished-at="2020-10-06T01:35:51 IST" duration-ms="3047" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.learnautomation.testcases.HerokuappTest@61dd025]" started-at="2020-10-06T01:35:51 IST" name="setup" finished-at="2020-10-06T01:36:08 IST" duration-ms="17241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="SelectDropdown()[pri:0, instance:com.learnautomation.testcases.HerokuappTest@61dd025]" started-at="2020-10-06T01:36:08 IST" name="SelectDropdown" finished-at="2020-10-06T01:36:11 IST" duration-ms="3078" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectDropdown -->
+        <test-method is-config="true" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.learnautomation.testcases.HerokuappTest@61dd025]" started-at="2020-10-06T01:36:11 IST" name="tearDownMethod" finished-at="2020-10-06T01:36:12 IST" duration-ms="683" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SelectDropdown status=SUCCESS method=HerokuappTest.SelectDropdown()[pri:0, instance:com.learnautomation.testcases.HerokuappTest@61dd025] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.learnautomation.testcases.HerokuappTest@61dd025]" started-at="2020-10-06T01:36:12 IST" name="teardown" finished-at="2020-10-06T01:36:14 IST" duration-ms="1577" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.learnautomation.testcases.HerokuappTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
